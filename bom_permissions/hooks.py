@@ -12,3 +12,5 @@ web_include_js = []
 web_include_css = []
 has_website_theme = False
 build = {}
+has_website_theme = False
+skip_assets = True
