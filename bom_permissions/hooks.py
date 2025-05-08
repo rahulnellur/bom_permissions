@@ -6,7 +6,7 @@ app_email = "your.email@example.com"
 app_license = "MIT"
 
 # Prevent esbuild from expecting frontend assets
-app_include_js = ["bom_permissions/public/js/dummy.js"]
+app_include_js = ["bom_permissions/js/dummy.js"]
 app_include_css = []
 web_include_js = []
 web_include_css = []
