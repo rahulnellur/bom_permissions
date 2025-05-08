@@ -1,0 +1,14 @@
+{
+ "doctype": "DocType",
+ "name": "BOM Permission",
+ "module": "bom_permissions",
+ "fields": [
+  {"fieldname": "user", "label": "User", "fieldtype": "Link", "options": "User"},
+  {"fieldname": "bom", "label": "BOM", "fieldtype": "Link", "options": "BOM"},
+  {"fieldname": "can_read", "label": "Can Read", "fieldtype": "Check"},
+  {"fieldname": "can_write", "label": "Can Write", "fieldtype": "Check"},
+  {"fieldname": "can_create", "label": "Can Create", "fieldtype": "Check"},
+  {"fieldname": "read_for_manufacturing", "label": "Read for Manufacturing", "fieldtype": "Check"}
+ ],
+ "permissions": [{"role": "System Manager", "read": 1}]
+}
