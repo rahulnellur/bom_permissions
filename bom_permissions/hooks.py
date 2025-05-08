@@ -4,3 +4,5 @@ app_publisher = "Your Name"
 app_description = "Custom BOM permission management"
 app_email = "your.email@example.com"
 app_license = "MIT"
+app_include_js = []
+app_include_css = []
