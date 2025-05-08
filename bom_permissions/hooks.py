@@ -15,4 +15,3 @@ build = {}
 has_website_theme = False
 skip_assets = True
 app_include_js = ["public/js/dummy.js"]
-≈
