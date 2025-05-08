@@ -5,6 +5,11 @@ app_description = "Custom BOM permission management"
 app_email = "your.email@example.com"
 app_license = "MIT"
 
-# Prevent esbuild errors by providing a dummy JS path
-app_include_js = "bom_permissions/js/dummy.js"
+# Do NOT include frontend files if not needed
+app_include_js = ""
+app_include_css = ""
+web_include_js = ""
+web_include_css = ""
+
+has_website_theme = False
 
