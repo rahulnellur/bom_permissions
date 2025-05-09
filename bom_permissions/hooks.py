@@ -5,3 +5,6 @@ app_description = "Manage BOM access by user or role"
 app_email = "rahul@rahulkv.com"
 app_license = "MIT"
 app_version = "0.0.1"
+
+app_include_css = "/assets/bom_permissions/css/bom_permissions.css"
+app_include_js = "/assets/bom_permissions/js/bom_permissions.js"
