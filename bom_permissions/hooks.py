@@ -1,1 +1,7 @@
-# Placeholder for hooks.py
+app_name = "bom_permissions"
+app_title = "BOM Permissions"
+app_publisher = "Your Name"
+app_description = "Manage BOM access by user or role"
+app_email = "you@example.com"
+app_license = "MIT"
+app_version = "0.0.1"
